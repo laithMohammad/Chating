@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="US-ASCII" ?>
+<services>
+    <service name="showHome" class="handlers.ShowHome"/>
+    <service name="login" class="handlers.Login"/>
+    <service name="signup" class="handlers.SignUp"/>
+    <service name="logout" class="handlers.Logout"/>
+    <service name="sendMessage" class="handlers.SendMessage"/>
+    <service name="friendRequest" class="handlers.SendMessage"/>
+    <service name="search" class="handlers.Search"/>
+</services>
